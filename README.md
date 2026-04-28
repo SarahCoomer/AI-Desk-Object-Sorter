@@ -1,8 +1,7 @@
-# [Your Project Title - e.g., AI Desk Object Sorter]
+# AI Desk Object Sorter
 
 ## Project Description
-A brief (1-2 sentence) description of your project. For example: "This project uses Google's Teachable Machine to classify common objects found on my desk."
-
+In this project I will use https://teachablemachine.withgoogle.com/train/image to identify 3 different desk objects on my desk. 
 ## Classes Identified
 List the objects your model was trained to identify:
 * Class 1 Computer Mouse
